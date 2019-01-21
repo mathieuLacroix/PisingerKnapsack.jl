@@ -1,0 +1,6 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/libpisinger
+deps/deps.jl
+deps/build.log
